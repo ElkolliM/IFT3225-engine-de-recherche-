@@ -1,0 +1,36 @@
+#searchbar{ 
+	margin-left: 35%; 
+	padding:10px; 
+	border-radius: 10px; 
+} 
+
+input[type=text] { 
+	width: 30%; 
+	-webkit-transition: width 0.15s ease-in-out; 
+	transition: width 0.15s ease-in-out; 
+} 
+
+
+
+#documentList {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#documentList td, #documentList th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#documentList tr:nth-child(even){background-color: #f2f2f2;}
+
+#documentList tr:hover {background-color: #ddd;}
+
+#documentList th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}

@@ -1,0 +1,10 @@
+Une voiture électrique est une automobile mue par un ou plusieurs moteurs électriques, généralement alimentés par une batterie d'accumulateurs voire une pile à hydrogène.
+
+Parmi les modèles de chacune de ces filières, on peut citer la Tesla Model 3 et la Renault Zoe équipées de batteries, la Toyota Mirai dotée d'une pile à combustible, ou la Chevrolet Volt munie d'un prolongateur d'autonomie qui en fait un véhicule hybride électrique rechargeable.
+
+Le concept de voiture électrique correspond au concept de véhicule électrique dans le domaine de la voiture. Le véhicule électrique comprend essentiellement un système de batterie qui joue le rôle du carburant ainsi que de moteur électrique. Elle se différencie du véhicule thermique par un temps de recharge plus long, ainsi que par la facilité de transporter et distribuer l'électricité, comparé à un véhicule thermique.
+
+La voiture est généralement équipée d'un ou plusieurs moteurs électriques dont la puissance totale peut aller de 15 à plus de 400 kW, selon la taille du véhicule, l'usage et les performances recherchées.
+Une batterie d'accumulateurs le plus souvent, parfois une pile à combustible ou autre source d'énergie électrique, fournit le moteur en énergie. Les batteries d'accumulateurs sont elles-mêmes rechargées soit par câble depuis une source électrique extérieure ; soit par récupération d'énergie en cours de roulement grâce au freinage régénératif, pour les automobiles électriques ou hybrides électriques, le moteur fonctionnant alors en générateur d'électricité ; soit encore par l'un ou l'autre, pour les véhicules hybrides rechargeables.
+
+Le coût de la batterie, plus élevé que celui d'un réservoir d'essence pour une même autonomie, représente une partie significative du coût du véhicule. Par contre le système moteur transmission d'un véhicule électrique est beaucoup plus simple à construire et à entretenir que celui d'un véhicule a moteur thermique de mème puissance. Par ailleurs la recharge peut être plus économique, à kilométrage égal, dans les pays où l'électricité n'est pas elle-même majoritairement fabriquée à partir de combustibles fossiles

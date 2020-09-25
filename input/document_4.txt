@@ -1,0 +1,12 @@
+Une pile électriquea, dite familièrement pile1, est un dispositif électrochimique qui convertit l'énergie chimique en énergie électrique grâce à une réaction chimique d'oxydoréduction.
+
+
+Le terme « batterie » désigne un assemblage d'éléments identiques (en parallèle ou en série), contrairement à la pile qui désigne l'empilement de couple (métaux différents + isolant) afin d'obtenir la tension désirée (on peut ensuite mettre ses éléments en batterie pour obtenir les caractéristiques désirées). Si les éléments montés les uns avec les autres sont des accumulateurs ils forment une batterie d'accumulateurs
+Mais on trouve parfois l'expression pour une batterie de piles, pour décrire l'assemblage de ces composants.
+
+Dans l'industrie automobile le terme une « batterie d'accumulateurs » est souvent simplifié en « batterie », ce qui est incomplet.
+
+Il existe des objets archéologiques, comme ceux trouvés en 1936, ressemblant à des piles. C'est le cas de la pile électrique de Bagdad qui est datée entre −250 et 250 bien qu'elles pourraient être plus anciennes et expliqueraient le placage si parfait de nombreux bijoux antiques si légers.
+Une batterie lithium-ion, ou accumulateur lithium-ion, est un type d'accumulateur lithium.
+
+Ses principaux avantages sont une énergie massique élevée (deux à cinq fois plus que le nickel-hydrure métallique par exemple) ainsi que l'absence d'effet mémoire. Enfin, l'auto-décharge est relativement faible par rapport à d'autres accumulateurs. Cependant, le coût reste important et a longtemps cantonné le lithium aux systèmes de petite taille
